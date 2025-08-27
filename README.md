@@ -35,7 +35,7 @@ The system is built using **Spring Boot, Spring Data JPA, MySQL, and REST APIs**
 1. **POST** `/contacts` → Create a new contact.
 2. **GET** `/contacts` → Fetch all contacts.
 3. **PUT** `/contacts/{id}` → Update a contact by ID.
-4. **DELETE** `/contacts/{id}` → Delete a contact by ID.
+4. **DELETE** `/contacts/{id}` → Delete a contact by ID..
 
 ---
 
